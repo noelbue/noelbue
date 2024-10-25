@@ -43,7 +43,7 @@ Als **Application Engineer bei Topix AG** betreue ich Lösungen wie **vjoon K4**
 Ich arbeite gerne an neuen Projekten, die kreative, effiziente Lösungen erfordern. Wenn du eine Idee hast oder an einer Zusammenarbeit interessiert bist, kontaktiere mich über [LinkedIn](https://www.linkedin.com/in/noel-b%C3%BCrgler-662b2118b/) oder besuche meine Webseite: [noelbuergler.ch](https://noelbuergler.ch) für mehr Informationen.
 
 ## 📫 Kontakt
-Du erreichst mich am besten über E-Mail: [noel.buergler@topix.ch](mailto:noel.buergler@topix.ch)
+Du erreichst mich am besten über E-Mail: [mail@noelbuergler.ch](mailto:mail@noelbuergler.ch)
 
 ---
 
