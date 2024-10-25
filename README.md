@@ -8,7 +8,7 @@
 
 **Application Engineer | Web Developer | Publishing Solutions Specialist**
 
-Welcome to my GitHub profile! I'm **Noel Bürgler**, an experienced Application Engineer and developer from Switzerland with a passion for publishing solutions and custom web development projects. With nearly 6 years of experience in the print industry and in-depth knowledge of digital media production, I help companies seamlessly integrate their digital and print processes.
+Welcome to my GitHub profile! I'm **Noel Bürgler**, an experienced Application Engineer and developer from Switzerland with a passion for publishing solutions and custom web development projects. With nearly 10 years of experience in the print industry and in-depth knowledge of digital media production, I help companies seamlessly integrate their digital and print processes.
 
 ### 🛠️ About Me
 As an **Application Engineer at Topix AG**, I manage solutions like **vjoon K4** and **Enfocus Switch** and develop custom automation scripts for **Dropbox** and **InDesign**. These projects give me valuable insights into bridging client needs with technical implementations, especially in publishing.
@@ -46,7 +46,7 @@ You can best reach me by email at [mail@noelbuergler.ch](mailto:mail@noelbuergle
 
 **Application Engineer | Webentwickler | Publishing Solutions Specialist**
 
-Willkommen auf meinem GitHub-Profil! Ich bin **Noel Bürgler**, ein erfahrener Application Engineer und Entwickler aus der Schweiz mit einer Leidenschaft für Publishing-Lösungen und maßgeschneiderte Webentwicklungsprojekte. Mit fast 6 Jahren Erfahrung in der Print-Branche und einem tiefen Wissen in der digitalen Medienproduktion helfe ich Unternehmen, ihre digitalen und analogen Prozesse optimal zu verknüpfen.
+Willkommen auf meinem GitHub-Profil! Ich bin **Noel Bürgler**, ein erfahrener Application Engineer und Entwickler aus der Schweiz mit einer Leidenschaft für Publishing-Lösungen und maßgeschneiderte Webentwicklungsprojekte. Mit fast 10 Jahren Erfahrung in der Print-Branche und einem tiefen Wissen in der digitalen Medienproduktion helfe ich Unternehmen, ihre digitalen und analogen Prozesse optimal zu verknüpfen.
 
 ### 🛠️ Über mich
 Als **Application Engineer bei Topix AG** betreue ich Lösungen wie **vjoon K4**, **Enfocus Switch** und integriere maßgeschneiderte Automatisierungen mit Skripten für **Dropbox** und **InDesign**. Diese Projekte geben mir wertvolle Einblicke in die Schnittstellen zwischen Kundenanforderungen und technischer Umsetzung, besonders im Bereich Publishing.
