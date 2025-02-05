@@ -20,7 +20,7 @@ As an **Application Engineer at Topix AG**, I manage solutions like **vjoon K4**
 
 ### 💻 Tech Stack
 
-**Frontend**: HTML, CSS (Basic SCSS), Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery  
+**Frontend**: HTML, CSS, Basic SCSS, Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery, CI/CD Pipelines  
 **Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL  
 **Databases**: MySQL, Microsoft SQL Server, SQLite  
 **CMS & Publishing Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch, vjoon K4  
@@ -58,14 +58,12 @@ Als **Application Engineer bei Topix AG** betreue ich Lösungen wie **vjoon K4**
 
 ### 💻 Tech Stack
 
-**Frontend**: HTML, CSS (Grundkenntnisse in SCSS), Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery  
+**Frontend**: HTML, CSS, SCSS, Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery, CI/CD Pipelines
 **Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL  
 **Datenbanken**: MySQL, Microsoft SQL Server, SQLite  
 **CMS & Publishing-Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch, vjoon K4  
 **Scripting & Tools**: XML, XSLT, InDesign-Skripting, Deepl API, Postman, Git, GitHub, GitLab, Netlify  
 **Sonstiges**: Adobe Creative Cloud (InDesign, Photoshop, Illustrator), Google Analytics, SEO, Office 365  
-
-*Grundkenntnisse*: Java, SCSS
 
 ### 🌱 Aktuelle Projekte
 - Vertiefung meiner Kenntnisse in **React** und modernen **JavaScript-Frameworks**
