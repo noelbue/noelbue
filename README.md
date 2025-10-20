@@ -15,7 +15,7 @@ As **Solutions Architect & Deputy IT Manager at Brüggli Admedia AG**, I develop
 
 Previously, I worked at **Topix AG** managing publishing systems like **vjoon K4** and **Enfocus Switch** for clients such as Red Bull Media House, where I was responsible for their complete K4 and Enfocus Switch environment.
 
-- 📍 **Location**: Niederbüren, Switzerland
+- 📍 **Location**: Horn TG, Switzerland
 - 🎓 **Current Studies**: B.Sc. in Computer Science
 - 🌐 **Website**: [noelbuergler.ch](https://noelbuergler.ch)
 - 💼 **Current Role**: Solutions Architect & Deputy IT Manager at Brüggli Admedia AG
@@ -56,7 +56,7 @@ Als **Solutions Architect & Stellvertretender IT-Leiter bei der Brüggli Admedia
 
 Zuvor arbeitete ich bei der **Topix AG** und betreute Publishing-Systeme wie **vjoon K4** und **Enfocus Switch** für Kunden wie Red Bull Media House, wo ich deren komplette K4- und Enfocus-Switch-Umgebung verantwortete.
 
-- 📍 **Wohnort**: Niederbüren, Schweiz
+- 📍 **Wohnort**: Horn TG, Schweiz
 - 🎓 **Derzeitiges Studium**: B.Sc. Informatik
 - 🌐 **Webseite**: [noelbuergler.ch](https://noelbuergler.ch)
 - 💼 **Aktuelle Position**: Solutions Architect & Stellv. IT-Leiter bei Brüggli Admedia AG
