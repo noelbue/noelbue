@@ -6,36 +6,39 @@
 
 ## English Version
 
-**Application Engineer | Web Developer | Publishing Solutions Specialist**
+**Solutions Architect | Full-Stack Developer | Publishing Solutions Specialist**
 
-Welcome to my GitHub profile! I'm **Noel Bürgler**, an experienced Application Engineer and developer from Switzerland with a passion for publishing solutions and custom web development projects. With nearly 10 years of experience in the print industry and in-depth knowledge of digital media production, I help companies seamlessly integrate their digital and print processes.
+Welcome to my GitHub profile! I'm **Noel Bürgler**, a Solutions Architect and developer from Switzerland with a passion for publishing solutions, workflow automation, and modern web development. With over 10 years of experience in the print and digital industry, I help companies optimize their workflows and build future-proof IT solutions.
 
 ### 🛠️ About Me
-As an **Application Engineer at Topix AG**, I manage solutions like **vjoon K4** and **Enfocus Switch** and develop custom automation scripts for **Dropbox** and **InDesign**. These projects give me valuable insights into bridging client needs with technical implementations, especially in publishing.
+As **Solutions Architect & Deputy IT Manager at Brüggli Admedia AG**, I develop intelligent communication solutions using modern web technologies like React, Express.js, and TypeScript. I build complex Enfocus Switch workflows with custom scripts and take responsibility for the entire IT infrastructure, including device management via Azure AD and Intune.
 
-- 📍 **Location**: Arbon, Switzerland
+Previously, I worked at **Topix AG** managing publishing systems like **vjoon K4** and **Enfocus Switch** for clients such as Red Bull Media House, where I was responsible for their complete K4 and Enfocus Switch environment.
+
+- 📍 **Location**: Niederbüren, Switzerland
 - 🎓 **Current Studies**: B.Sc. in Computer Science
 - 🌐 **Website**: [noelbuergler.ch](https://noelbuergler.ch)
-- 💼 **Current Role**: Application Engineer at Topix AG
+- 💼 **Current Role**: Solutions Architect & Deputy IT Manager at Brüggli Admedia AG
 
 ### 💻 Tech Stack
 
-**Frontend**: HTML, CSS, Basic SCSS, Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery, CI/CD Pipelines  
-**Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL  
-**Databases**: MySQL, Microsoft SQL Server, SQLite  
-**CMS & Publishing Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch, vjoon K4  
-**Scripting & Tools**: XML, XSLT, InDesign Scripting, Deepl API, Postman, Git, GitHub, GitLab, Netlify  
-**Other Tools**: Adobe Creative Cloud (InDesign, Photoshop, Illustrator), Google Analytics, SEO, Office 365  
+**Frontend**: HTML, CSS, SCSS/SASS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, Vue.js, Redux, Gatsby.js, Vite, Shadcn  
+**Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL, Axios  
+**Databases**: MySQL, Microsoft SQL Server (MSSQL), SQLite, Prisma, Supabase  
+**CMS & Publishing Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch (Scripting), vjoon K4, XMPie, Heidelberg Cockpit, Frontify  
+**DevOps & Cloud**: Git, GitHub, GitLab, Netlify, CI/CD Pipelines, Azure AD, Microsoft Intune  
+**Scripting & Automation**: XML, XSLT, InDesign Scripting, Switch Scripting (TypeScript), Regex  
+**Tools & Platforms**: Adobe Creative Cloud, Atlassian (Jira, Confluence), Apache Tomcat, IIS Webserver, Adobe InDesign Server, Postman, Microsoft Power BI, Stripe  
 
-*Basic Knowledge*: Java, SCSS
-
-### 🌱 Current Projects
-- Expanding my skills in **React** and other modern **JavaScript frameworks**
-- Optimizing publishing workflows through automation and API integrations
-- Building my expertise in **DevOps tools** and **cloud services**
+### 🌱 Current Focus
+- Building full-stack web applications with **React** and **Express.js**
+- Developing automated workflows with **Enfocus Switch** and **TypeScript**
+- Expanding expertise in **AI integration** and modern communication solutions
+- Managing IT infrastructure with **Azure AD** and **Intune**
+- Optimizing publishing workflows through API integrations and process automation
 
 ### 🤝 Let's Connect
-I'm always interested in collaborating on projects that need creative, efficient solutions. If you have an idea or want to work together, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/noelbuergler) or visit my website for more details: [noelbuergler.ch](https://noelbuergler.ch).
+I'm always interested in collaborating on projects that need creative, efficient solutions. If you have an idea or want to work together, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/noelbuergler) or visit my website: [noelbuergler.ch](https://noelbuergler.ch).
 
 ### 📫 Contact
 You can best reach me by email at [mail@noelbuergler.ch](mailto:mail@noelbuergler.ch).
@@ -44,34 +47,39 @@ You can best reach me by email at [mail@noelbuergler.ch](mailto:mail@noelbuergle
 
 ## Deutsche Version
 
-**Application Engineer | Webentwickler | Publishing Solutions Specialist**
+**Solutions Architect | Full-Stack Developer | Publishing Solutions Specialist**
 
-Willkommen auf meinem GitHub-Profil! Ich bin **Noel Bürgler**, ein erfahrener Application Engineer und Entwickler aus der Schweiz mit einer Leidenschaft für Publishing-Lösungen und maßgeschneiderte Webentwicklungsprojekte. Mit fast 10 Jahren Erfahrung in der Print-Branche und einem tiefen Wissen in der digitalen Medienproduktion helfe ich Unternehmen, ihre digitalen und analogen Prozesse optimal zu verknüpfen.
+Willkommen auf meinem GitHub-Profil! Ich bin **Noel Bürgler**, ein Solutions Architect und Entwickler aus der Schweiz mit einer Leidenschaft für Publishing-Lösungen, Workflow-Automatisierung und moderne Webentwicklung. Mit über 10 Jahren Erfahrung in der Print- und Digital-Branche helfe ich Unternehmen, ihre Workflows zu optimieren und zukunftssichere IT-Lösungen aufzubauen.
 
 ### 🛠️ Über mich
-Als **Application Engineer bei Topix AG** betreue ich Lösungen wie **vjoon K4**, **Enfocus Switch** und integriere maßgeschneiderte Automatisierungen mit Skripten für **Dropbox** und **InDesign**. Diese Projekte geben mir wertvolle Einblicke in die Schnittstellen zwischen Kundenanforderungen und technischer Umsetzung, besonders im Bereich Publishing.
+Als **Solutions Architect & Stellvertretender IT-Leiter bei der Brüggli Admedia AG** entwickle ich intelligente Kommunikationslösungen mit modernen Web-Technologien wie React, Express.js und TypeScript. Ich baue komplexe Enfocus-Switch-Workflows mit Custom Scripts auf und übernehme Verantwortung für die gesamte IT-Infrastruktur, inklusive Device-Management via Azure AD und Intune.
 
-- 📍 **Wohnort**: Arbon, Schweiz
-- 🎓 **Derzeitiges Studium**: B.Sc. Computer Science
+Zuvor arbeitete ich bei der **Topix AG** und betreute Publishing-Systeme wie **vjoon K4** und **Enfocus Switch** für Kunden wie Red Bull Media House, wo ich deren komplette K4- und Enfocus-Switch-Umgebung verantwortete.
+
+- 📍 **Wohnort**: Niederbüren, Schweiz
+- 🎓 **Derzeitiges Studium**: B.Sc. Informatik
 - 🌐 **Webseite**: [noelbuergler.ch](https://noelbuergler.ch)
-- 💼 **Aktuelle Position**: Application Engineer bei Topix AG
+- 💼 **Aktuelle Position**: Solutions Architect & Stellv. IT-Leiter bei Brüggli Admedia AG
 
 ### 💻 Tech Stack
 
-**Frontend**: HTML, CSS, SCSS, Tailwind CSS, JavaScript, React.js, Vue.js, GatsbyJS, jQuery, CI/CD Pipelines
-**Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL  
-**Datenbanken**: MySQL, Microsoft SQL Server, SQLite  
-**CMS & Publishing-Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch, vjoon K4  
-**Scripting & Tools**: XML, XSLT, InDesign-Skripting, Deepl API, Postman, Git, GitHub, GitLab, Netlify  
-**Sonstiges**: Adobe Creative Cloud (InDesign, Photoshop, Illustrator), Google Analytics, SEO, Office 365  
+**Frontend**: HTML, CSS, SCSS/SASS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, Vue.js, Redux, Gatsby.js, Vite, Shadcn  
+**Backend**: Node.js, Express.js, PHP, REST APIs, GraphQL, Axios  
+**Datenbanken**: MySQL, Microsoft SQL Server (MSSQL), SQLite, Prisma, Supabase  
+**CMS & Publishing-Software**: WordPress (Custom Themes & Plugins), Contentful, Enfocus Switch (Scripting), vjoon K4, XMPie, Heidelberg Cockpit, Frontify  
+**DevOps & Cloud**: Git, GitHub, GitLab, Netlify, CI/CD Pipelines, Azure AD, Microsoft Intune  
+**Scripting & Automatisierung**: XML, XSLT, InDesign-Scripting, Switch-Scripting (TypeScript), Regex  
+**Tools & Plattformen**: Adobe Creative Cloud, Atlassian (Jira, Confluence), Apache Tomcat, IIS Webserver, Adobe InDesign Server, Postman, Microsoft Power BI, Stripe  
 
-### 🌱 Aktuelle Projekte
-- Vertiefung meiner Kenntnisse in **React** und modernen **JavaScript-Frameworks**
-- Optimierung von Workflows im Publishing durch Automatisierung und API-Integration
-- Aufbau meiner Kenntnisse in **DevOps-Tools** und **Cloud Services**
+### 🌱 Aktueller Fokus
+- Entwicklung von Full-Stack-Webanwendungen mit **React** und **Express.js**
+- Aufbau automatisierter Workflows mit **Enfocus Switch** und **TypeScript**
+- Erweiterung meiner Kenntnisse in **KI-Integration** und modernen Kommunikationslösungen
+- Management der IT-Infrastruktur mit **Azure AD** und **Intune**
+- Optimierung von Publishing-Workflows durch API-Integration und Prozessautomatisierung
 
 ### 🤝 Zusammenarbeit
-Ich arbeite gerne an neuen Projekten, die kreative, effiziente Lösungen erfordern. Wenn du eine Idee hast oder an einer Zusammenarbeit interessiert bist, kontaktiere mich über [LinkedIn](https://www.linkedin.com/in/noelbuergler) oder besuche meine Webseite: [noelbuergler.ch](https://noelbuergler.ch) für mehr Informationen.
+Ich arbeite gerne an neuen Projekten, die kreative, effiziente Lösungen erfordern. Wenn du eine Idee hast oder an einer Zusammenarbeit interessiert bist, kontaktiere mich über [LinkedIn](https://www.linkedin.com/in/noelbuergler) oder besuche meine Webseite: [noelbuergler.ch](https://noelbuergler.ch).
 
 ### 📫 Kontakt
 Du erreichst mich am besten über E-Mail: [mail@noelbuergler.ch](mailto:mail@noelbuergler.ch).
